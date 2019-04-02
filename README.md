@@ -11,7 +11,7 @@ Please visit https://github.com/allenai/bilm-tf. Basically, you use BioELMo the 
 
 ## Interesting Properties
 1. BioELMo encodes biomedical entity-type and relational information pretty well, as shown in our paper.
-2. BioELMo effectively encodes numbers in biomedical contexts. ![alt text](image/demographic_embeddings.png)
+2. BioELMo effectively encodes numbers in biomedical contexts. ![alt text](image/demographic_embeddings.png "demo")
 
 ## Probing Experiments
 Please visit https://github.com/Andy-jqa/probing_biomed_embeddings for codes of probing experiments described in Probing Biomedical Embeddings from Language Model.
