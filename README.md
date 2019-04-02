@@ -9,6 +9,8 @@ BioELMo is a biomedical version of embeddings from language model (ELMo), pre-tr
 ## Usage
 Please visit https://github.com/allenai/bilm-tf. Basically, you use BioELMo the same way you use ELMo.
 
+## Interesting Properties
+
 ## Probing Experiments
 Please visit https://github.com/Andy-jqa/probing_biomed_embeddings for codes of probing experiments described in Probing Biomedical Embeddings from Language Model.
 
