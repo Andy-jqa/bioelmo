@@ -10,6 +10,8 @@ BioELMo is a biomedical version of embeddings from language model (ELMo), pre-tr
 Please visit https://github.com/allenai/bilm-tf. Basically, you use BioELMo the same way you use ELMo.
 
 ## Interesting Properties
+1. BioELMo encodes biomedical entity-type and relational information pretty well, as shown in our paper.
+2. BioELMo effectively encodes numbers in biomedical contexts.
 
 ## Probing Experiments
 Please visit https://github.com/Andy-jqa/probing_biomed_embeddings for codes of probing experiments described in Probing Biomedical Embeddings from Language Model.
