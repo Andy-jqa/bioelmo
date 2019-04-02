@@ -1,5 +1,5 @@
 # bioelmo
-BioELMo is a biomedical version of embeddings from language model (ELMo), pre-trained on PubMed abstracts. BioELMo is trained on 10M recent PubMed abstracts (2.46B tokens in total). It achieves an averaged forward and backward perplexity of 31.37 on a held-out test set.
+BioELMo is a biomedical version of embeddings from language model (ELMo), pre-trained on PubMed abstracts. Pre-training uses 10M recent PubMed abstracts (2.46B tokens in total), and BioELMo achieves an averaged forward and backward perplexity of 31.37 on a held-out test set.
 
 ## Download
 - [BioELMo weights](https://drive.google.com/file/d/1CHRd5YQrt3ys64WfJkJR1KX72-2CaT4I/view?usp=sharing)
