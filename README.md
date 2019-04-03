@@ -18,3 +18,11 @@ Please visit https://github.com/Andy-jqa/probing_biomed_embeddings for codes of 
 
 ## Citation
 Please cite the following paper if you use BioELMo:
+```
+@inproceedings{jin2019,
+  title={Probing Biomedical Embeddings from Language Models},
+  author=author={Jin, Qiao and Dhingra, Bhuwan and Cohen, William and Lu, Xinghua},
+  booktitle={Proceedings of the 3rd Workshop on Evaluating Vector Space Representations for NLP},
+  year={2019}
+}
+```
