@@ -1,5 +1,5 @@
 # bioelmo
-BioELMo is a biomedical version of embeddings from language model (ELMo), pre-trained on PubMed abstracts. Pre-training uses 10M recent PubMed abstracts (2.46B tokens in total), and BioELMo achieves an averaged forward and backward perplexity of 31.37 on a held-out test set. BioELMo encodes biomedical entity-type and relational information pretty well, as shown in our paper.
+BioELMo is a biomedical version of embeddings from language model (ELMo), pre-trained on PubMed abstracts. Pre-training uses 10M recent PubMed abstracts (2.46B tokens in total), and BioELMo achieves an averaged forward and backward perplexity of 31.37 on a held-out test set. BioELMo encodes biomedical entity-type and relational information pretty well, as shown in [our paper](https://arxiv.org/abs/1904.02181).
 
 ## Download
 - [BioELMo weights](https://drive.google.com/file/d/1CHRd5YQrt3ys64WfJkJR1KX72-2CaT4I/view?usp=sharing)
@@ -10,7 +10,7 @@ BioELMo is a biomedical version of embeddings from language model (ELMo), pre-tr
 Please visit https://github.com/allenai/bilm-tf. Basically, you use BioELMo the same way you use ELMo.
 
 ## Probing Experiments
-Please visit https://github.com/Andy-jqa/probing_biomed_embeddings (currently under construction) for codes of probing experiments described in Probing Biomedical Embeddings from Language Model.
+Please visit https://github.com/Andy-jqa/probing_biomed_embeddings (currently under construction) for codes of probing experiments described in our paper.
 
 ## Citation
 Please cite the following paper if you use BioELMo:
